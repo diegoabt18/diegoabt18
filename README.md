@@ -8,7 +8,7 @@
  ```java
 class DesarrolladorWeb {
  String nombre = "Diego Botello"
- String Area de conocimiento = "Ingeniero de sistemas"
+ String AreaConocimiento = ["Ingeniero de sistemas","FullStack"]
  String languajes = ["Java", "Python", "JavaScript", "React"] 
 }
 ```
