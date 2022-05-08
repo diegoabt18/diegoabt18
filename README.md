@@ -96,7 +96,7 @@ Ttengo 24 años y disfruto desarrollando cosas en el mundo tecnológico. Mi inte
   <a href="https://github.com/diegoabt18">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=diegoabt18&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=diegoabt18&locale=es&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
