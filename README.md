@@ -119,11 +119,11 @@ Ttengo 24 años y disfruto desarrollando cosas en el mundo tecnológico. Mi inte
     </img>
   </a>
 
-  <a href="https://github.com/diegoabt18/chiwi-academy">
+  <a href="https://github.com/diegoabt18/fronttodolist">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diegoabt18&repo=chiwi-academy&locale=es&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diegoabt18&repo=fronttodolist&locale=es&theme=tokyonight">
     </img>
   </a>
 </p>
