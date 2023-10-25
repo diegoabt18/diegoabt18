@@ -6,7 +6,7 @@
 <p align="left"> 
   
  ```java
-class DesarrolladorWeb {
+public class DesarrolladorWeb {
  String nombre = "Diego Botello"
  String AreaConocimiento = ["Ingeniero de sistemas","FullStack"]
  String languajes = ["Java", "Python", "JavaScript", "React"] 
