@@ -13,7 +13,7 @@ class DesarrolladorWeb {
 }
 ```
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Más sobre mí
-engo 25 años y disfruto mucho desarrollando en el mundo de la tecnología. Mi interés por la programación surgió durante mis años escolares, cuando empecé a aprender los conceptos básicos de programación y a crear algoritmos simples. Desde entonces, he perseguido mi sueño de convertirme en un desarrollador de alta calidad en el futuro. A lo largo de los años, he avanzado rápidamente en esta dirección. He completado varios cursos y obtuve mi título en Ingeniería de Sistemas, lo que me ha permitido adquirir un amplio conocimiento sobre el mundo de la tecnología y los lenguajes de programación, como Java, JavaScript y Python. También he trabajado con frameworks de desarrollo como Django, Vue, React y Spring Boot.
+Tengo 25 años y disfruto mucho desarrollando en el mundo de la tecnología. Mi interés por la programación surgió durante mis años escolares, cuando empecé a aprender los conceptos básicos de programación y a crear algoritmos simples. Desde entonces, he perseguido mi sueño de convertirme en un desarrollador de alta calidad en el futuro. A lo largo de los años, he avanzado rápidamente en esta dirección. He completado varios cursos y obtuve mi título en Ingeniería de Sistemas, lo que me ha permitido adquirir un amplio conocimiento sobre el mundo de la tecnología y los lenguajes de programación, como Java, JavaScript y Python. También he trabajado con frameworks de desarrollo como Django, Vue, React y Spring Boot.
 
 En este momento, estoy centrando mi atención en el desarrollo web y me esfuerzo por aprender algo nuevo cada día para convertirme en un desarrollador altamente competente.
 </p>
